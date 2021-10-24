@@ -1,0 +1,12 @@
+* Ali Danesh address1 911 9513423 1395 computerScience oriention1 bsc
+* Mohammad Ghafari address2 912 9513424 1395 mechanicalEngineering oriention2 msc
+* Edi Cue address3 913 9513425 1395 softwareEngineering oriention3 bsc
+& Tim Cook address4 914 116 Department1 phd
+& Johnathan Ive address5 915 106 Department2 phd
+& Craig federighy address6 916 100 Department3 phd
+# ModelTheory 101 4 30 116 303
+# GameTheory 97 3 30 106 304
+# ArtificalIntelligence 102 3 40 100 305
+% DS 109 3 1 100 208
+% AP 103 3 0 106 205
+% FOM 98 3 1 116 203
